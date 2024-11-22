@@ -4,7 +4,7 @@
 
 -Here you can find some of my simple projects i've made in my free time to practice HTML, CSS and JS.
 
--My LinkedIn - www.linkedin.com/in/antonis-arabatzis
+-My LinkedIn - www.linkedin.com/in/antonis-arampatzis
 
 
 <!---
