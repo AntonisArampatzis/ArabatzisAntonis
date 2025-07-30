@@ -2,7 +2,7 @@
 
 -My main aim after graduating from the department of Computer Science, is to learn more about coding,especially as a frontend developer
 
--Here you can find some of my simple projects i've made in my free time to practice HTML, CSS and JS.
+-Here you can find some of my projects i've made during my free time and also during my on-going internship where im working on full-stack development
 
 -My LinkedIn - www.linkedin.com/in/antonis-arampatzis
 
