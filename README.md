@@ -1,4 +1,4 @@
--Hi, I’m Arabatzis Antonis,an undergraduate student at Democritus University of Thrace and this is my Github profile
+-Hi, I’m Arampatzis Antonis,an undergraduate student at Democritus University of Thrace and this is my Github profile
 
 -My main aim after graduating from the department of Computer Science, is to learn more about coding,especially as a frontend developer
 
